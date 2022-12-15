@@ -3,6 +3,7 @@ import java.util.List;
 import java.util.function.Supplier;
 
 public class SupplierDemo {
+
     /*
     @Override
     public String get() {
